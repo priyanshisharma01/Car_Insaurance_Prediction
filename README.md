@@ -20,3 +20,8 @@ You are provided 935 customers data (test data) who were contacted during the cu
 campaign. You are required to build a machine learning model to predict if these customers 
 will buy the car insurance or not.
 Try to achieve maximum accuracy.
+Key takeaways
+Building a Machine Learning Model from scratch
+Exploratory Data Analysis
+Data Cleaning and Preprocessing
+Building and Evaluating different Machine Learning models
